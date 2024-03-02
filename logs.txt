@@ -1,4 +1,6 @@
 The log entry is added successfully
+
+The battle is the Lords!
 This log was generated at 2024-03-02 14:46:42
 This log was generated at 2024-03-02 14:53:01
 This log was generated at 2024-03-02 14:54:01
